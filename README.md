@@ -10,7 +10,7 @@ With Flock abuse revelations occurring at an astounding rate, this list will lik
 
 ## [You can also click here to view as a spreadsheet.](https://drive.proton.me/urls/ZADSKMM9QG#1lWAnVYC0FvK )  
 
-![Get Flock out of our communities](https://raw.githubusercontent.com/LateNightAFA/flock/refs/heads/main/Image/Flock_Abuse_Map.png?token=GHSAT0AAAAAAEFROLO2L7CAMVGRUAGIIS3G2T4UCMQ)
+![Get Flock out of our communities](Image/Flock_Abuse_Map.png)
 
 ### Check out these resources to keep up:
 * [LateNightAFA Flock Abuse Thread](https://bsky.app/profile/latenightafa.bsky.social/post/3mq4c65inek2j) | [Thread Unroll 1](https://skyview.social/?url=https://bsky.app/profile/did:plc:zoznoyofrqadb2i2l662ifhp/post/3ms4gbg7zns2p&viewtype=unroll) | [Unroll 2](https://skyview.social/?url=https://bsky.app/profile/did:plc:zoznoyofrqadb2i2l662ifhp/post/3ms4gbg7zns2p&viewtype=unroll)
